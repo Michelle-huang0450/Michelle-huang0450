@@ -1,4 +1,4 @@
-## Hi, I'm Michelle Huang👋 
+## Hi, I'm Michelle Huang. 
 `外向且善於溝通` `細心且有進取心` `C#軟體工程師` `可團隊合作亦可獨立作業`
 - :school: 畢業於 **國立政治大學 資訊管理學系**
 
