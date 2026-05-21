@@ -111,7 +111,7 @@
 - 系統分析／設計工具：Draw.io
 - 輔助工具：WinMerge
 - 辦公室應用：Excel、PowerPoint、Word、Outlook
-- Other Skills：
+- Other Skills：<br>
 API 串接<br>
 系統測試與版本部署<br>
 系統維運<br>
